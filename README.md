@@ -1,7 +1,6 @@
 # svelte tom template
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
+Dette er en tom svelte template til brug i programmeringsprojekter. Husk følgende kommandoer for at starte din web-app i dev mode
 
 ```bash
 npm install 
